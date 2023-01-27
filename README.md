@@ -17,7 +17,7 @@ Für das Pyhton Skript muss Python installiert sein und die Bibliotkel "Requests
 
 Diese lässt sich mit folgedem Befehl im MSDOS bzw CMD installieren
 
-``python -m pip show requests``
+``python -m pip install requests``
 
 Anschlissend muss die Datei wie das VBS Skript bearbeitet werden und der Text ``"APISchlüssel"`` 
 gegen einen richtigen API Schlüssel ausgetauscht werden.
