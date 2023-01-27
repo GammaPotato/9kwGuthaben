@@ -27,7 +27,7 @@ gegen einen richtigen API Schlüssel ausgetauscht werden.
 
 Danach einfach speichern und die Datei Starten.
 Zu sehen ist ein Fenster mit einem Aktuallisieren Button mit dem man sich das Guthaben ständig Aktuallisieren kann
-=========
+
 Nach dem start Einfach denn API Schlüssel eingeben und Speichern.
 Danach wird nach jedem start der API Schlüssel automatisch abgerufen.
 
