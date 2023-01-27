@@ -1,5 +1,5 @@
 # 9kwGuthaben
-Eine Scripts mit denen man sich sein Guthaben anzeigen lassen Kann
+Eine Scripts mit denen man sich sein Guthaben anzeigen lassen Kann und Somit muss man nicht die Gui oder denn Client Downloaden
 
 Die Nutzung ist sehr einfach!
 
