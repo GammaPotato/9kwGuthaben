@@ -22,12 +22,6 @@ Für das Pyhton Skript muss Python installiert sein und die Bibliotkel "Requests
 
 Diese Installiert automatisch das Skript "Python Start.bat" mehr braucht man nicht machen.
 
-Anschlissend muss die Datei wie das VBS Skript bearbeitet werden und der Text ``"APISchlüssel"`` 
-gegen einen richtigen API Schlüssel ausgetauscht werden.
-
-Danach einfach speichern und die Datei Starten.
-Zu sehen ist ein Fenster mit einem Aktuallisieren Button mit dem man sich das Guthaben ständig Aktuallisieren kann
-
 Nach dem start Einfach denn API Schlüssel eingeben und Speichern.
 Danach wird nach jedem start der API Schlüssel automatisch abgerufen.
 
