@@ -22,8 +22,7 @@ Für das Pyhton Skript muss Python installiert sein und die Bibliotkel "Requests
 
 Diese Installiert automatisch das Skript "Python Start.bat" mehr braucht man nicht machen.
 
-Nach dem start Einfach denn API Schlüssel eingeben und Speichern.
-Danach wird nach jedem start der API Schlüssel automatisch abgerufen.
+Der rest ist anschliessend Selbst erklärend. 
 
 
 Ein API Key kann erstellen werden auf der Hauptseite von 
