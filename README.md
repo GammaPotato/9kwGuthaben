@@ -20,6 +20,6 @@ Diese lässt sich mit folgedem Befehl im MSDOS bzw CMD installieren
 Anschlissend muss die Datei wie das VBS Skript bearbeitet werden und der Text ``"APISchlüssel"`` 
 gegen einen richten API Schlüssel ausgetauscht werden.
 
-Danach einfach speichern und die Datei Speichern.
+Danach einfach speichern und die Datei Starten.
 Zu sehen ist ein Fenster mit einem Aktuallisieren Button mit dem man sich das Guthaben ständig Aktuallisieren kann
 
