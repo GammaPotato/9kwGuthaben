@@ -22,9 +22,6 @@ Für das Pyhton Skript muss Python installiert sein und die Bibliotkel "Requests
 
 Diese Installiert automatisch das Skript "Python Start.bat" mehr braucht man nicht machen.
 
-<<<<<<<<< Temporary merge branch 1
-``python -m pip install requests``
-
 Anschlissend muss die Datei wie das VBS Skript bearbeitet werden und der Text ``"APISchlüssel"`` 
 gegen einen richtigen API Schlüssel ausgetauscht werden.
 
@@ -33,7 +30,6 @@ Zu sehen ist ein Fenster mit einem Aktuallisieren Button mit dem man sich das Gu
 =========
 Nach dem start Einfach denn API Schlüssel eingeben und Speichern.
 Danach wird nach jedem start der API Schlüssel automatisch abgerufen.
->>>>>>>>> Temporary merge branch 2
 
 
 Ein API Key kann erstellen werden auf der Hauptseite von 
