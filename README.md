@@ -7,7 +7,7 @@ Die Nutzung ist sehr einfach!
 
 How To Use(VBS Skript)
 
-Einfach im VBS Skripts denn Text ``"APISchlüssel"`` gegen einen richten API Schlüssel austauschen
+Einfach im VBS Skripts denn Text ``"APISchlüssel"`` gegen einen richtigen API Schlüssel austauschen
 und Speichern. Anschlissend dein Datei einmal Doppelklicken und das Guthaben wird angezeigt
 
 
@@ -20,8 +20,13 @@ Diese lässt sich mit folgedem Befehl im MSDOS bzw CMD installieren
 ``python -m pip show requests``
 
 Anschlissend muss die Datei wie das VBS Skript bearbeitet werden und der Text ``"APISchlüssel"`` 
-gegen einen richten API Schlüssel ausgetauscht werden.
+gegen einen richtigen API Schlüssel ausgetauscht werden.
 
 Danach einfach speichern und die Datei Starten.
 Zu sehen ist ein Fenster mit einem Aktuallisieren Button mit dem man sich das Guthaben ständig Aktuallisieren kann
 
+
+
+Ein API Key kann erstellen werden auf der Hauptseite von 9kw.eu -> API Key -> Neuen Schlüssel erzeugen
+
+Unter One-Click API Key nimmt man einfach "Allgemein"
