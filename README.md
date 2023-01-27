@@ -1,5 +1,7 @@
 # 9kwGuthaben
-Eine Scripts mit denen man sich sein Guthaben anzeigen lassen Kann und Somit muss man nicht die Gui oder denn Client Downloaden
+``Für 9kw.eu zur Prüfung; Ich möchte keine großartige Belohnung. Ich finde diese Skripts einfach nur als Nützlich und sowas wünschen sich bestimmt einige``
+
+Scripts mit denen man sich sein Guthaben anzeigen lassen Kann und Somit muss man nicht die Gui oder denn Client Downloaden
 
 Die Nutzung ist sehr einfach!
 
