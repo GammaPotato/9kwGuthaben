@@ -10,10 +10,7 @@ How To Use(VBS Skript)
 Einfach im VBS Skripts denn Text ``"APISchlüssel"`` gegen einen richtigen API Schlüssel austauschen
 und Speichern. Anschlissend dein Datei einmal Doppelklicken und das Guthaben wird angezeigt
 
-Die Administrator Rechte werden dafür benötigt um die Datei zu erstellen die denn API Schlüssel bei der Python Speichert
 
-ACHTUNG!
-Solltet ihr das Skript weiter geben achtet darauf das ihr die "api_key.pkl" Datei nicht mit sendet! in dieser ist euer API key gespeichert!
 
 
 How To Use (Py Skript)
