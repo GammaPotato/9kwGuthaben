@@ -6,7 +6,7 @@ def save_api_key():
     api_key = api_key_entry.get()
     with open("api_key.pkl", "wb") as f:
         pickle.dump(api_key, f)
-    label.config(text="API Schlüssel gespeichert.")
+    label.config(text="API Key gespeichert.")
 
 def show_balance():
     with open("api_key.pkl", "rb") as f:
@@ -19,13 +19,13 @@ root = tk.Tk()
 root.geometry("300x150")
 root.title("9kw.eu Restguthaben")
 
-label = tk.Label(root, text="API Schlüssel eingeben:")
+label = tk.Label(root, text="API Keyl eingeben:")
 label.pack()
 
 api_key_entry = tk.Entry(root)
 api_key_entry.pack()
 
-save_api_key_button = tk.Button(root, text="API Schlüssel Speichern", command=save_api_key)
+save_api_key_button = tk.Button(root, text="API Key Speichern", command=save_api_key)
 save_api_key_button.pack()
 
 try:
@@ -35,7 +35,7 @@ try:
         api_key_entry.insert(0,api_key)
     show_balance()
 except:
-    label.config(text="Gib denn API Schlüssel ein und Drücke Enter")
+    label.config(text="Gib denn API Key ein und Drücke Enter")
 
 button = tk.Button(root, text="Aktualisieren", command=show_balance)
 button.pack()
