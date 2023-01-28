@@ -55,7 +55,7 @@ instance/
 .webassets-cache
 
 .scrapy
-.vs
+.vs/
 
 docs/_build/
 
