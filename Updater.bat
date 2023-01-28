@@ -1,5 +1,6 @@
 @echo off
 mode con lines=6 cols=40
+mkdir Version
 set SoftwareVer=v1.0.0
 set UpdaterVer=v1.0.0
 cls
